@@ -1,0 +1,26 @@
+#opap_widget {
+    width:                      260px;
+}
+.game-data {
+    font-weight:                bold;
+    font-size:                  0.9em;
+}
+.game-data .results {
+    display:                    block;
+}
+.results > span {
+    display:                    inline-block;
+    padding:                    4px;
+    background-color:           steelblue;
+    color:                      white;
+    margin:                     2px;
+    width:                      13px;
+}
+div#opap_widget > div {
+    margin-bottom:              10px;
+    border:                     1px solid rgb(211, 211, 211);
+    border-radius:              3px;
+    -moz-border-radius:         3px;
+    -webkit-border-radius:      3px;
+    padding:                    8px 4px;
+}

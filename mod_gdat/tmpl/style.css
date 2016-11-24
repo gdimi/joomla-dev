@@ -1,0 +1,11 @@
+div.rates-1 > span {
+    display: inline-block;
+    width: 32%;
+    padding-left: 2px;
+    line-height: 26px;
+    border-bottom: thin solid lightgray;
+}
+
+div.rates-1 > span:nth-child(1) {
+    font-weight: bold;
+}
